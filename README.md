@@ -1,1 +1,1 @@
-# Streamlit-Interface-For-A-Locally-Installed-LLM
+# Web-Interface-For-A-Locally-Installed-LLM
